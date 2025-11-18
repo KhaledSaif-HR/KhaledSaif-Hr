@@ -1,25 +1,46 @@
-<h1 align="center">Hey 👋</h1>
 
-###
+<h2 align="left">Hi 👋! I'm Khaled Saif </h2>
 
-<p align="left">Khaled Saif</p>
+<h3 align="center">💻 HR Manager| Odoo Implementer</h3>
 
-###
+---
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+## 🛠 Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
 </div>
 
-###
+- **Languages**: Python    
+- **Databases**: MySQL  
+
+---
+
+## 🚀 Projects
+---
+
+## 📫 Let's Connect!
+
+<div align="left">
+  <a href="mailto:ksaifarab@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="[[Your LinkedIn]](https://www.linkedin.com/in/khaled-saif-00b5b310a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjlGezbaNRaiARYQ8qIAzmA%3D%3D)" target="_blank">
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="[Your GitHub]" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=black&logoColor=white&style=for-the-badge" height="35" alt="GitHub" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</div>
