@@ -17,7 +17,13 @@
 ---
 
 ## 🚀 Projects
+### [🎯 Pizza restaurant](https://github.com/KhaledSaif-HR/Pizza-Data-Analysis)  
+### Sales DashBoard ###
+
+**Tools:** Excel
+
 ---
+
 
 ## 📫 Let's Connect!
 
