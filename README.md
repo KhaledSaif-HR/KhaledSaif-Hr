@@ -29,7 +29,7 @@
   <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="[Your GitHub]" target="_blank">
+  <a href="https://github.com/KhaledSaif-HR" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=black&logoColor=white&style=for-the-badge" height="35" alt="GitHub" />
   </a>
 </div>
