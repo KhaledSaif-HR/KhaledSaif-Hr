@@ -25,7 +25,7 @@
   <a href="mailto:ksaifarab@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
-  <a href="[[Your LinkedIn]](https://www.linkedin.com/in/khaled-saif-00b5b310a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjlGezbaNRaiARYQ8qIAzmA%3D%3D)" target="_blank">
+  <a href="(https://www.linkedin.com/in/khaled-saif-00b5b310a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjlGezbaNRaiARYQ8qIAzmA%3D%3D)" target="_blank">
   <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
