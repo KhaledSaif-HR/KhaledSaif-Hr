@@ -1,7 +1,7 @@
 # Khaled Saif
-1.**🌱 I’m currently learning Data Analysis**
+ 1.**🌱 I’m currently learning Data Analysis**
 
-2.**Oddo Implementer**
+ 2.**Odoo Implementer**
 <!--
 **KhaledSaif-HR/KhaledSaif-Hr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
